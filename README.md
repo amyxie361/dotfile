@@ -1,1 +1,1 @@
-# dotfiles I love
+# dotfiles
